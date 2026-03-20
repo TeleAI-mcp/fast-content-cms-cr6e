@@ -1,2 +1,3 @@
-# fast-content-cms-cr6e
-Automated issue comment bot repository
+# Fast Content Cms Cr6E
+
+Automated issue comment bot repository.
